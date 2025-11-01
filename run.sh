@@ -8,5 +8,6 @@ else
     echo "env найден, продолжаю..."
 fi
 
+touch config.env
 .env/bin/pip3 install -r requirements.txt
 .env/bin/python3 main.py
