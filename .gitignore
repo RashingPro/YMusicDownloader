@@ -1,5 +1,5 @@
-# hide config
-config.env
+# hide key
+api.key
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
