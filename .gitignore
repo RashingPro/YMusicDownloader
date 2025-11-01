@@ -1,6 +1,7 @@
 # hide key
 api.key
 download/
+cover.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
